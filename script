@@ -1,0 +1,19 @@
++15
+Lines changed: 15 additions & 0 deletions
+Original file line number	Diff line number	Diff line change
+@@ -0,0 +1,15 @@
+@@ -1,14 +0,0 @@
+# Site acessível sobre Tropicália
+# Sobre
+Refatoração de um site implementando recursos de acessibilidade no html, css e JS.
+## Recursos de acessibilidade
+- Atributos aria
+- alt
+- tab-index
+- menu de acessibilidade
+## Tecnologias utilizadas
+- Bootstrap
+- ScrollRevealjs
+- HTML
+- CSS
+- JS
